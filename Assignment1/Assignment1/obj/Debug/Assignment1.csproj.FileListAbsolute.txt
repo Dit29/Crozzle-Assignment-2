@@ -1,0 +1,10 @@
+\\WDMYCLOUD\Radityo\Deakin University\SIT323 - Practical Software Development\Assignment 2\SIT323 Assignment 2\Assignment1\Assignment1\obj\Debug\Assignment1.csprojResolveAssemblyReference.cache
+\\WDMYCLOUD\Radityo\Deakin University\SIT323 - Practical Software Development\Assignment 2\SIT323 Assignment 2\Assignment1\Assignment1\obj\Debug\Assignment1.Form1.resources
+\\WDMYCLOUD\Radityo\Deakin University\SIT323 - Practical Software Development\Assignment 2\SIT323 Assignment 2\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.GenerateResource.Cache
+\\WDMYCLOUD\Radityo\Deakin University\SIT323 - Practical Software Development\Assignment 2\SIT323 Assignment 2\Assignment1\Assignment1\bin\Debug\Assignment2.exe.config
+\\WDMYCLOUD\Radityo\Deakin University\SIT323 - Practical Software Development\Assignment 2\SIT323 Assignment 2\Assignment1\Assignment1\bin\Debug\Assignment2.exe
+\\WDMYCLOUD\Radityo\Deakin University\SIT323 - Practical Software Development\Assignment 2\SIT323 Assignment 2\Assignment1\Assignment1\bin\Debug\Assignment2.pdb
+\\WDMYCLOUD\Radityo\Deakin University\SIT323 - Practical Software Development\Assignment 2\SIT323 Assignment 2\Assignment1\Assignment1\obj\Debug\Assignment2.Properties.Resources.resources
+\\WDMYCLOUD\Radityo\Deakin University\SIT323 - Practical Software Development\Assignment 2\SIT323 Assignment 2\Assignment1\Assignment1\obj\Debug\Assignment2.exe
+\\WDMYCLOUD\Radityo\Deakin University\SIT323 - Practical Software Development\Assignment 2\SIT323 Assignment 2\Assignment1\Assignment1\obj\Debug\Assignment2.pdb
+\\WDMYCLOUD\Radityo\Deakin University\SIT323 - Practical Software Development\Assignment 2\SIT323 Assignment 2\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
